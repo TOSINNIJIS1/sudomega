@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.70568eae.chunk.css",
+    "main.js": "/static/js/main.b44a267b.chunk.js",
+    "main.js.map": "/static/js/main.b44a267b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a31d20aa.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a31d20aa.js.map",
+    "static/js/2.8fdcc74a.chunk.js": "/static/js/2.8fdcc74a.chunk.js",
+    "static/js/2.8fdcc74a.chunk.js.map": "/static/js/2.8fdcc74a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1edae8d50841e712b6de107e9817ce87.js": "/precache-manifest.1edae8d50841e712b6de107e9817ce87.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.70568eae.chunk.css.map": "/static/css/main.70568eae.chunk.css.map",
+    "static/js/2.8fdcc74a.chunk.js.LICENSE.txt": "/static/js/2.8fdcc74a.chunk.js.LICENSE.txt",
+    "static/media/Game4x4.png": "/static/media/Game4x4.edf88f12.png",
+    "static/media/Game6x6.png": "/static/media/Game6x6.f38b56a7.png",
+    "static/media/cube4.gif": "/static/media/cube4.ead505e3.gif",
+    "static/media/games.png": "/static/media/games.9b2359f7.png",
+    "static/media/omega-logo.png": "/static/media/omega-logo.f309356a.png",
+    "static/media/sudoku.png": "/static/media/sudoku.ed72175a.png",
+    "static/media/sudoku1.png": "/static/media/sudoku1.597bb70b.png",
+    "static/media/tutorial-banner.png": "/static/media/tutorial-banner.65144dc3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a31d20aa.js",
+    "static/js/2.8fdcc74a.chunk.js",
+    "static/css/main.70568eae.chunk.css",
+    "static/js/main.b44a267b.chunk.js"
+  ]
+}
