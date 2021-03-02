@@ -1,0 +1,147 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`the length of the material ui and match the snapshot of the foot mobile component snapshot the component 1`] = `
+<div
+  className="MuiBox-root MuiBox-root-19 makeStyles-root-1"
+>
+  <div
+    className="MuiContainer-root MuiContainer-maxWidthLg"
+  >
+    <div
+      className="MuiBox-root MuiBox-root-20 makeStyles-root-3"
+    >
+      <div
+        className="MuiBox-root MuiBox-root-21 makeStyles-leftContainer-4"
+      >
+        <div
+          className="MuiCardHeader-root"
+        >
+          <div
+            className="MuiCardHeader-content"
+          />
+          <div
+            className="MuiCardHeader-action"
+          >
+            <button
+              className="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorInherit"
+              disabled={false}
+              onBlur={[Function]}
+              onDragLeave={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              onKeyUp={[Function]}
+              onMouseDown={[Function]}
+              onMouseLeave={[Function]}
+              onMouseUp={[Function]}
+              onTouchEnd={[Function]}
+              onTouchMove={[Function]}
+              onTouchStart={[Function]}
+              tabIndex={0}
+              type="button"
+            >
+              <span
+                className="MuiIconButton-label"
+              >
+                <svg
+                  aria-hidden={true}
+                  className="MuiSvgIcon-root"
+                  focusable="false"
+                  style={
+                    Object {
+                      "fontSize": 25,
+                      "transform": "rotate(140deg)",
+                    }
+                  }
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M9 2c-1.05 0-2.05.16-3 .46 4.06 1.27 7 5.06 7 9.54 0 4.48-2.94 8.27-7 9.54.95.3 1.95.46 3 .46 5.52 0 10-4.48 10-10S14.52 2 9 2z"
+                  />
+                </svg>
+              </span>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiBox-root MuiBox-root-22 makeStyles-centerContainer-6"
+      >
+        <div
+          className="MuiCardHeader-root"
+        >
+          <div
+            className="MuiCardHeader-avatar"
+          >
+            <a
+              className="MuiTypography-root MuiLink-root MuiLink-underlineHover makeStyles-root-3 MuiTypography-colorPrimary"
+              href="/menu"
+              onBlur={[Function]}
+              onFocus={[Function]}
+            >
+              <img
+                alt="logo"
+                src="omega-logo.png"
+                style={
+                  Object {
+                    "height": 30,
+                    "width": 30,
+                  }
+                }
+              />
+            </a>
+          </div>
+          <div
+            className="MuiCardHeader-content"
+          />
+        </div>
+      </div>
+      <div
+        className="MuiBox-root MuiBox-root-23 makeStyles-rightContainer-5"
+      >
+        <div
+          className="MuiBox-root MuiBox-root-24 makeStyles-icons-7"
+        >
+          <div
+            className="MuiCardHeader-root"
+          >
+            <div
+              className="MuiCardHeader-avatar"
+            >
+              <div
+                className="MuiBox-root MuiBox-root-25"
+              >
+                <div
+                  aria-haspopup="true"
+                  className="MuiAvatar-root MuiAvatar-circle makeStyles-color-17 MuiAvatar-colorDefault"
+                  onClick={[Function]}
+                >
+                  <svg
+                    aria-hidden={true}
+                    className="MuiSvgIcon-root"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </div>
+            <div
+              className="MuiCardHeader-content"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr
+    style={
+      Object {
+        "opacity": 0.2,
+      }
+    }
+  />
+</div>
+`;
